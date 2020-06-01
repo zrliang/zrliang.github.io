@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cool on This my first website</title>
+    <link>https://zrliang.github.io/tags/cool/</link>
+    <description>Recent content in Cool on This my first website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 01 Jun 2020 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://zrliang.github.io/tags/cool/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first post</title>
+      <link>https://zrliang.github.io/blog/test/</link>
+      <pubDate>Mon, 01 Jun 2020 10:07:47 +0800</pubDate>
+      
+      <guid>https://zrliang.github.io/blog/test/</guid>
+      <description>Hello World
+我是Allen
+一級標題 二級 666 我是阿柴，我喜歡學習
+ 一  hi  c9  2j/         HELLO  fine  have a good day       this is important</description>
+    </item>
+    
+  </channel>
+</rss>
