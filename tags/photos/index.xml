@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on This my first website</title>
+    <title>Photos on zrliang&#39;s Blog </title>
     <link>https://zrliang.github.io/tags/photos/</link>
-    <description>Recent content in Photos on This my first website</description>
+    <description>Recent content in Photos on zrliang&#39;s Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 01 Jun 2020 12:07:47 +0800</lastBuildDate>
@@ -28,17 +28,8 @@
       <guid>https://zrliang.github.io/blog/test/</guid>
       <description>Hello World
 我是Allen
-一級標題 二級 666 我是阿柴，我喜歡學習
- 一  hi  c9  2j/         HELLO  fine  have a good day       this is important</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://zrliang.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://zrliang.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+一級標題 二級標題 六級標題 我是粗體，我是斜體
+ 第一層(階層關係)  第二層(前面打4個空白鍵)  c9  2j/         手手  fine  have a good day       this is important (引用)</description>
     </item>
     
   </channel>

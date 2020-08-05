@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>心得 on This my first website</title>
+    <title>心得 on zrliang&#39;s Blog </title>
     <link>https://zrliang.github.io/categories/%E5%BF%83%E5%BE%97/</link>
-    <description>Recent content in 心得 on This my first website</description>
+    <description>Recent content in 心得 on zrliang&#39;s Blog </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 01 Jun 2020 10:07:47 +0800</lastBuildDate>
@@ -19,8 +19,8 @@
       <guid>https://zrliang.github.io/blog/test/</guid>
       <description>Hello World
 我是Allen
-一級標題 二級 666 我是阿柴，我喜歡學習
- 一  hi  c9  2j/         HELLO  fine  have a good day       this is important</description>
+一級標題 二級標題 六級標題 我是粗體，我是斜體
+ 第一層(階層關係)  第二層(前面打4個空白鍵)  c9  2j/         手手  fine  have a good day       this is important (引用)</description>
     </item>
     
   </channel>
